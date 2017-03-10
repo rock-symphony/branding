@@ -15,7 +15,7 @@ RockSymphony Branding
 #### Rectangular Logo with slogan
  
 <p align="center">
-  <img src="logo/logo_hand.png" alt="Rock Symfony"><br/>
+  <img src="logo/logo_hand.png" alt="Rock Symphony"><br/>
   Rock with Symfony1 again.<br/>
   Just when you thought it's dead.
 </p>
@@ -24,5 +24,5 @@ RockSymphony Branding
 #### Square Logo for avatars
 
 <p align="center">
-  <img src="logo/logo_square.png" alt="Rock Symfony"><br/>
+  <img src="logo/logo_square.png" alt="Rock Symphony"><br/>
 </p>
