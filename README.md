@@ -1,0 +1,2 @@
+# branding
+RockSymfony branding assets
