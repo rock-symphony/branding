@@ -1,5 +1,5 @@
-RockSymfony Branding
-======================
+RockSymphony Branding
+=====================
 
 #### Tweet-size project description 
 
